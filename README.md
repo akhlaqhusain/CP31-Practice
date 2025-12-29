@@ -1,4 +1,4 @@
-# Languages Used
+# Language Used
 
 - C++
 
