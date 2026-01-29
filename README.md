@@ -10,18 +10,16 @@
     #define int long long
     #define endl '\n'
     #define vi vector<int>
-    #define vvi vector<vector<int>>
-    #define mii map<int,int>
-    #define umii unordered_map<int,int>
     #define pii pair<int,int>
-    #define vpii vector<pair<int,int>>
-    #define take(v) for(auto &x:v)cin>>x;
+    #define in(n) int n;cin>>n;
+    #define get(s) string s;cin>>s;
+    #define take(v,n) vector<int> v(n);for(auto &x:v)cin>>x;
     #define prt(v) for(auto x:v)cout<<x<<' ';cout<<endl;
     #define all(v) v.begin(),v.end()
-    #define allr(v) v.rbegin(),v.rend()
     #define yes cout << "YES" << endl
     #define no cout << "NO" << endl
-    static constexpr auto MOD = 1000000007;
+    #define MOD = (int)1e9+7
+    #define INF (int)1e18
 
     void solve()
     {
