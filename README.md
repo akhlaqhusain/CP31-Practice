@@ -18,7 +18,7 @@
     #define all(v) v.begin(),v.end()
     #define yes cout << "YES" << endl
     #define no cout << "NO" << endl
-    #define MOD = (int)1e9+7
+    #define MOD (int)1e9+7
     #define INF (int)1e18
 
     void solve()
